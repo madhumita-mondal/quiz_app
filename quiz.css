@@ -31,7 +31,7 @@ img{
     margin: 3rem auto;
     width: 90vw;
     padding: 7rem;
-    background: rgba(0,255,221,0.45);
+    background: rgba(231, 236, 236, 0.45);
     cursor: default;
     border-radius: 1rem;
 }
@@ -64,7 +64,7 @@ span{
 }
 #stat{
     margin-top: 1.5rem;
-    color: rgb(6, 168, 165);
+    color: rgb(3, 20, 80, 0.55);
 }
 .buttons{
     text-align: center;
@@ -75,7 +75,7 @@ button{
     outline: none;
     font-size: 1.5rem;
     border-radius: 1.5rem;
-    color: rgba(224, 217, 236, 0.98);
+    color: rgba(236, 233, 241, 0.98);
     background: rgba(3, 20, 80, 0.55);
 }
 button:active{
